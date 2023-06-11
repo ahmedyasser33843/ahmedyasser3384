@@ -42,7 +42,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(../imges/ahmed3.jpg);
+    background-image: url(../imges/ahmed1.jpeg);
     background-repeat: no-repeat;
 
     background-position: right 150px;
@@ -263,8 +263,8 @@ section{
     }
     
     .main{
-        background-size: 170px;
-        background-position: 170px 130px ;
+        background-size: 130px;
+        background-position: 199px 130px ;
     }
 
 }
