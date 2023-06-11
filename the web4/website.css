@@ -42,8 +42,9 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(../imges/ahmed22.png);
+    background-image: url(../imges/ahmed33.jpg);
     background-repeat: no-repeat;
+
     background-position: right 150px;
     background-size: 500px;
     background-color: #151e35;
@@ -228,7 +229,7 @@ section{
 
 }
 
-@media (max-width:360px){
+@media (max-width:380px){
     header{
         padding: 12px 20px;
        background-size: 100vw;
