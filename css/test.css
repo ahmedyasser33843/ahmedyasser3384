@@ -191,7 +191,7 @@ header nav .lin .link > a:hover::before{
     position:relative;
 }
 .landing .container{
-    height: calc(100vh - 61px);
+    height: calc(100vh - 97px);
     display: flex;
     align-items: center;
 
@@ -272,7 +272,7 @@ header nav .lin .link > a:hover::before{
         width: 100%;
     }
     .landing .container{
-        height: calc(100vh - 92px);
+        height: calc(100vh - 108px);
     }
     .container .text{
         padding-left: 15px;
