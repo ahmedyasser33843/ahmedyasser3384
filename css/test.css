@@ -84,7 +84,7 @@ header .mega-menu ul li i{
 }
 @media (max-width:840px){
     header .mega-menu{
-        padding: 5px 10px;
+        padding: 3px 7px;
         width: 100%;
         left: 0;
         display: block;
@@ -93,9 +93,12 @@ header .mega-menu ul li i{
         width: 100%;
     }
     header .mega-menu ul li a{
-        font-size: 17px;
+        font-size: 13px;
         font-weight: bold;
         color: rgb(4, 155, 255);
+    }
+    header .mega-menu ul li {
+        padding:10px;
     }
     header .mega-menu .image{
         display: none;
